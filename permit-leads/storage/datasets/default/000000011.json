@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-094753 BP",
+  "issued_date": "2026-07-25",
+  "address": "2328 WESTFOREST DR",
+  "zip": "78704",
+  "work_description": "new spa addition to existing pool. removing 108 sqft of exsisting concrete and decking.",
+  "permit_type": "Building Permit",
+  "valuation": 55000,
+  "contractor_name": "Wilson Central Texas Pools",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-094753 BP",
+  "trade": "pool",
+  "valuation_is_estimated": true,
+  "lead_score": 56,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

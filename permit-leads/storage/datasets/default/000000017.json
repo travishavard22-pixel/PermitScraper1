@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-094594 EP",
+  "issued_date": "2026-07-24",
+  "address": "1500 RED RIVER ST",
+  "zip": "78712",
+  "work_description": "X Ray replacement on the lower level of an existing hospital.",
+  "permit_type": "Electrical Permit",
+  "valuation": 3800,
+  "contractor_name": "Schmidt Electric Co Inc",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-094594 EP",
+  "trade": "electrical",
+  "valuation_is_estimated": true,
+  "lead_score": 23,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

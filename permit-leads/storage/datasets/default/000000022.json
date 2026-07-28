@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-088101 BP",
+  "issued_date": "2026-07-24",
+  "address": "6613 OASIS DR",
+  "zip": "78749",
+  "work_description": "Express: Replace 8 windows (like for like)",
+  "permit_type": "Building Permit",
+  "valuation": 5000,
+  "contractor_name": "Renewal by Andersen",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-088101 BP",
+  "trade": "other",
+  "valuation_is_estimated": true,
+  "lead_score": 29,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

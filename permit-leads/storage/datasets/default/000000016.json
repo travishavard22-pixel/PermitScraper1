@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-094678 PP",
+  "issued_date": "2026-07-24",
+  "address": "13021 LEGENDARY DR BLDG 16",
+  "zip": "78727",
+  "work_description": "Replacement of an existing water heater WATER HEATER LIKE FOR LIKE UNIT # 1620",
+  "permit_type": "Plumbing Permit",
+  "valuation": 4500,
+  "contractor_name": "Airco Mechanical",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-094678 PP",
+  "trade": "plumbing",
+  "valuation_is_estimated": true,
+  "lead_score": 23,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-092771 BP",
+  "issued_date": "2026-07-26",
+  "address": "1526 SOUTHPORT DR",
+  "zip": "78704",
+  "work_description": "Temp bracing prior to demo remove and replace existing brick veneer exterior wall remove and replace in-kind 2x framing add new sheathing and waterproofing . Fix footings stairwell repair",
+  "permit_type": "Building Permit",
+  "valuation": 12000,
+  "contractor_name": "M&J Construction",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-092771 BP",
+  "trade": "demolition",
+  "valuation_is_estimated": true,
+  "lead_score": 43,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

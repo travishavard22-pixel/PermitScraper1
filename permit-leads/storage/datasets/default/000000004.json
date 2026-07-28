@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-074396 PP",
+  "issued_date": "2026-07-26",
+  "address": "8001 CIRCUIT OF THE AMERICAS BLVD UNIT 902",
+  "zip": "78617",
+  "work_description": "Interior finish out    [QT]",
+  "permit_type": "Plumbing Permit",
+  "valuation": 4500,
+  "contractor_name": "General Plumbing Services",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-074396 PP",
+  "trade": "plumbing",
+  "valuation_is_estimated": true,
+  "lead_score": 37,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

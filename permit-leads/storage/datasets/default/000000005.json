@@ -1,0 +1,17 @@
+{
+  "permit_number": "2025-150652 PP",
+  "issued_date": "2026-07-26",
+  "address": "2206 WHITE HORSE TRL",
+  "zip": "78757",
+  "work_description": "ePlan: Residential Expedited Review - New construction of a 2 story single family residence with third floor habitable attic 6 bedroom 4.5 bathroom covered porch & uncovered deck.",
+  "permit_type": "Plumbing Permit",
+  "valuation": 4500,
+  "contractor_name": "Art G Plumbing",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2025-150652 PP",
+  "trade": "plumbing",
+  "valuation_is_estimated": true,
+  "lead_score": 37,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

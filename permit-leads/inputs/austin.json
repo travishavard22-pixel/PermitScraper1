@@ -1,0 +1,11 @@
+{
+  "cities": ["austin_tx"],
+  "lookbackDays": 5,
+  "trades": [],
+  "minValuation": 0,
+  "zipWhitelist": [],
+  "requireContractor": false,
+  "onlyNew": true,
+  "maxResults": 25,
+  "debugScreenshots": false
+}

@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-094265 PP",
+  "issued_date": "2026-07-26",
+  "address": "1109 FIELDCREST DR",
+  "zip": "78704",
+  "work_description": "Relocate tub to where the toilet currently is and move toilet to where the tub was. Install shower valve. Run hot line from lavatory. Kill hot line to tub at manifold. Roll cold copper line into slab for commode. Run commode vent to another vent or through roof.",
+  "permit_type": "Plumbing Permit",
+  "valuation": 4500,
+  "contractor_name": "Praxis Plumbing",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-094265 PP",
+  "trade": "plumbing",
+  "valuation_is_estimated": true,
+  "lead_score": 37,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

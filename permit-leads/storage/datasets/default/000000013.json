@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-090771 PP",
+  "issued_date": "2026-07-24",
+  "address": "16401 SMITHERS RD",
+  "zip": "78653",
+  "work_description": "ETJ new waste water service for SFR",
+  "permit_type": "Plumbing Permit",
+  "valuation": 4500,
+  "contractor_name": "Protex Plumbing & Mechanical, LP",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-090771 PP",
+  "trade": "plumbing",
+  "valuation_is_estimated": true,
+  "lead_score": 23,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

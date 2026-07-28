@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-063271 PP",
+  "issued_date": "2026-07-26",
+  "address": "3006 FRUTH ST BLDG 1",
+  "zip": "78705",
+  "work_description": "ePlan: Residential Expedited Review - New construction TWO Unit; Bldg 1 New construction 2-story SF Res [6bed 6bath]",
+  "permit_type": "Plumbing Permit",
+  "valuation": 4500,
+  "contractor_name": "Loredos Plumbing",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-063271 PP",
+  "trade": "plumbing",
+  "valuation_is_estimated": true,
+  "lead_score": 37,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-088448 PP",
+  "issued_date": "2026-07-24",
+  "address": "11325 ZIP COCHISE WAY",
+  "zip": "78653",
+  "work_description": "New 2-Story Single Family Residence w opt 4 bedrooms 3.5 bathrooms Media Rm Gourmet Kitchen and a 3 Car Garage Covered\nEntry Porch & Patio.",
+  "permit_type": "Plumbing Permit",
+  "valuation": 4500,
+  "contractor_name": "Mustang Plumbing",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-088448 PP",
+  "trade": "plumbing",
+  "valuation_is_estimated": true,
+  "lead_score": 23,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

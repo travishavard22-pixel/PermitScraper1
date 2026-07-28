@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-093536 PP",
+  "issued_date": "2026-07-24",
+  "address": "9116 HOG EYE RD UNIT 3183",
+  "zip": "78724",
+  "work_description": "New Service For Tiny Home. ETJ. 399 Sq Ft.",
+  "permit_type": "Plumbing Permit",
+  "valuation": 4500,
+  "contractor_name": "TRI-GO PLUMBING",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-093536 PP",
+  "trade": "plumbing",
+  "valuation_is_estimated": true,
+  "lead_score": 23,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

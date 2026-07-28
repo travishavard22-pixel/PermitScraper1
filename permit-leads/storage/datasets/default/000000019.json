@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-094346 MP",
+  "issued_date": "2026-07-24",
+  "address": "500 S 3RD ST UNIT B",
+  "zip": "78704",
+  "work_description": "Replacement of complete existing central heat and air system with or without duct work Replacement of HVAC system.",
+  "permit_type": "Mechanical Permit",
+  "valuation": 8500,
+  "contractor_name": "Radiant Plumbing and Air Conditioning",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-094346 MP",
+  "trade": "hvac",
+  "valuation_is_estimated": true,
+  "lead_score": 29,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

@@ -1,0 +1,11 @@
+{
+  "cities": ["houston_tx"],
+  "lookbackDays": 3,
+  "trades": ["roofing", "hvac", "plumbing", "foundation"],
+  "minValuation": 5000,
+  "zipWhitelist": ["77072", "77036", "77081", "77074", "77099"],
+  "requireContractor": false,
+  "onlyNew": true,
+  "maxResults": 100,
+  "debugScreenshots": true
+}

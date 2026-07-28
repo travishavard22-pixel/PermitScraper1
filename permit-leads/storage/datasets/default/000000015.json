@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-063708 EP",
+  "issued_date": "2026-07-24",
+  "address": "1443 CORONADO HILLS DR BLDG 2",
+  "zip": "78752",
+  "work_description": "Renovation of existing apartment buildings including interior upgrades to improve accessibility withing dwelling units. Work includes replacement of interior finishes doors plumbing fixtures electrical fixtures and devices and HVAC equipment. Exterior work includes replacement of siding windows and doors. No additional changes to building footprint or changes to the exterior building design are proposed. This building contains accessible units and renovations work specific to meet accessibility requirements. (Building 2)",
+  "permit_type": "Electrical Permit",
+  "valuation": 3800,
+  "contractor_name": "Tron Electric Inc.",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-063708 EP",
+  "trade": "electrical",
+  "valuation_is_estimated": true,
+  "lead_score": 31,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

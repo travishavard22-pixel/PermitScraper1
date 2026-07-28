@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-094950 PP",
+  "issued_date": "2026-07-26",
+  "address": "605 SUNDIAL CV",
+  "zip": "78748",
+  "work_description": "Replacement of an existing water heater Ashley Perryman 605 Sundial Cove Austin TX 78748\nExchange existing 40 gallon natural gas water heater",
+  "permit_type": "Plumbing Permit",
+  "valuation": 4500,
+  "contractor_name": "Ultimate Plumber LLC",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-094950 PP",
+  "trade": "plumbing",
+  "valuation_is_estimated": true,
+  "lead_score": 37,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}

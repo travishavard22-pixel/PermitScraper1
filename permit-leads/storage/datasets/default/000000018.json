@@ -1,0 +1,17 @@
+{
+  "permit_number": "2026-096082 BP",
+  "issued_date": "2026-07-24",
+  "address": "4231 WESTLAKE DR BLDG A UNIT 2",
+  "zip": "78746",
+  "work_description": "MAIN BATHROOM REMODEL NEW NON LOAD BEARING PARTITION WALLS IN LIVING ROOM AND MAIN BATHROOM. NEW DOOR WITH HEADER IN MAIN BEDROOM NEW DOOR WITH HEADER IN MAIN BATHROOM NEW RELOCATED WATER CLOSET IN MAIN BATHROOM EXPAND SHOWER IN MAIN BATHROOM. REPLACE EXTERIOR PATIO DOORS AND TRANSOMS WITH NEW SLIDING DOORS. FIREPLACE FINISHES UPDATE.",
+  "permit_type": "Building Permit",
+  "valuation": 25000,
+  "contractor_name": "Q Construction Solutions",
+  "owner_name": "",
+  "source_city": "austin_tx",
+  "source_url": "https://data.austintexas.gov/resource/3syk-w9eu.json?permit_number=2026-096082 BP",
+  "trade": "remodel",
+  "valuation_is_estimated": true,
+  "lead_score": 36,
+  "scraped_at": "2026-07-28T08:22:41Z"
+}
